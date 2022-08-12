@@ -4,7 +4,6 @@ use std::fs;
 use std::{collections::HashMap, thread, time};
 
 fn main() {
-    
     // Main game loop
     let mut done = false;
     while !done {
